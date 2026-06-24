@@ -59,3 +59,6 @@ next-env.d.ts
 # Sitemap (generated during build)
 /public/sitemap*.xml
 /public/robots.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

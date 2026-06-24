@@ -1,0 +1,16 @@
+{
+  "name": "Out Front Entertainment",
+  "short_name": "Out Front",
+  "description": "Australia's premier marketplace for booking entertainers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#8B0000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
