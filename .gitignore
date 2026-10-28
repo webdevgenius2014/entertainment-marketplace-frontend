@@ -31,8 +31,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # Environment variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -52,10 +50,10 @@ next-env.d.ts
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
 # Sitemap (generated during build)
 /public/sitemap*.xml
 /public/robots.txt
+config.bat
